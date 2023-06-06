@@ -22,4 +22,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 Este projeto está licenciado sob a Licença MIT.
 
-[Contato](mailto:dheime7@gmail.com)
+[Meu contato](mailto:dheime7@gmail.com)
